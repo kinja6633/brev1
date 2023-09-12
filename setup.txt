@@ -1,0 +1,18 @@
+C:\Users\Kinjal Patil\AppData\Local\Programs\Microsoft VS Code
+C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0
+C:\Users\Kinjal Patil\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2023.1
+C:\Program Files\Java\jdk-20\
+C:\Users\Kinjal Patil\AppData\Local\Programs\Python\Python311
+C:\Program Files\JetBrains\PyCharm Community Edition 2023.1
+C:\Users\Kinjal Patil\anaconda3
+C:\Program Files\MongoDB\Server\6.0\data\
+https://classroom.google.com/c/NTM3MjgyNjg3NDcz  = My classroom link
+C:\Program Files\MongoDB\Server\6.0\bin
+D:\ZIP_FOR_MONGOOSH\mongosh-1.8.2-win32-x64\bin
+C:\Program Files\nodejs\
+C:\Program Files\Git
+
+C:\Program Files\Sublime Text
+C:\Users\Kinjal Patil\Downloads\startbootstrap-clean-blog-gh-pages
+►Telegram - https://t.me/cscorner = youtuber
+
